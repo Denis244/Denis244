@@ -11,9 +11,9 @@ Looking for junior and internship opportunities in IT
 - Open to collaborating on interesting projects and learning from experienced developers
 
 ## Tech
-**Languages:** Java, Python, C, C++, JavaScript, TypeScript, SQL
-**Frontend:** Angular, HTML, CSS
-**Tools:** Git
+- Languages: Java, Python, C, C++, JavaScript, TypeScript, SQL
+- Frontend: Angular, HTML, CSS
+- Tools: Git
 
 ## Get in touch
 - LinkedIn: [www.linkedin.com/in/denis-vasileios-humaciu]

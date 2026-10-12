@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#I'm Denis
+I'm Denis
 
 Master's student in Software Engineering at UPT (Politehnica University of Timișoara)
 Looking for junior and internship opportunities in IT
